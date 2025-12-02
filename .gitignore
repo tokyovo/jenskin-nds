@@ -1,0 +1,4 @@
+.env
+jenkins_key
+jenkins_key.pub
+jenkins_sandbox_home/
